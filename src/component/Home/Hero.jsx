@@ -36,7 +36,7 @@ const Hero = () => {
         </div>
         <div className=" flex flex-col items-center justify-center w-1/2 md:my-0 my-10 ">
         <div style={{maxWidth:"60%"}}>
-             <h1 className="mb-2 text-[50px]   font-semibold leading-tight">How we work</h1>
+             <h1 className="mb-2 text-[50px]   font-semibold leading-tight">How we do not work</h1>
           <p className="mb-6   text-[18px] pt-[20px]  ">
           We’ve actually already asked hundreds of women what they want, and made a database with results. All you have to do is take our short survey that only
            takes seconds, and our proprietary algorithm will match you with a few perfect gift options.
