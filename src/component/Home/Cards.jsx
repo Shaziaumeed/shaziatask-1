@@ -4,10 +4,10 @@ const Cards = () => {
   return (
     <div>
      <div>
-      <div className="text-3xl text-center mt-[100px] font-bold">
+      <div className="text-3xl text-center mt-[100px] font-bold font-serif">
         <p>Gift for all Occasions</p>
       </div>
-      <div className="text-center">
+      <div className="text-center pt-3">
         <p>"Try web app to find the best gift for all Occasions"</p>
       </div>
     </div>

@@ -1,5 +1,4 @@
 import React from "react";
-
 const Hero = () => {
   return (
     <div className="main-container  bg-[#F1F1F2]">
@@ -10,7 +9,7 @@ const Hero = () => {
             <h1 className="lg:text-6xl md:text-3xl text-2xl">
               Find a gift for your wife or girlfriend
             </h1>
-            <p className="lg:text-lg md:text-base text-sm pt-9">
+            <p className="lg:text-lg md:text-base text-sm pt-9 ">
               Struggling to find a gift or girlfriend? No problem!
             </p>
             <button className="hover:text-[#F7941E]  hover:border-[#F7941E] text-white  hover:bg-[#F1F1F2] 
@@ -32,7 +31,6 @@ const Hero = () => {
             <h1 className="lg:text-6xl md:text-3xl text-2xl">
               How we work
             </h1>
-
             <p className="lg:text-lg md:text-base text-sm pt-7">
             We’ve actually already asked hundreds of women what they want, and made a database with results. All you have to do is take our short survey that only
             takes seconds, and our proprietary algorithm will match you with a few perfect gift options.

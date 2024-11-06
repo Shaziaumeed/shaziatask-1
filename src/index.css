@@ -4,3 +4,8 @@
 .main-container {
     @apply max-w-[1440px] w-full mx-auto;
 }
+
+.align:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.425); 
+
+}
