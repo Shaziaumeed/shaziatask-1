@@ -17,7 +17,6 @@ const Home = () => {
         <Boxes/>
       </Layout>
     </div>
-  );
-};
-
+  )
+}
 export default Home;
