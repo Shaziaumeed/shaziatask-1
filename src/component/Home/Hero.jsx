@@ -10,7 +10,7 @@ const Hero = () => {
               Find a gift for your wife or girlfriend
             </h1>
             <p className="lg:text-lg md:text-base text-sm pt-9 ">
-              Struggling to find a gift or girlfriend? No  promblem!
+              Struggling to find a gift or girlfriend? No  problem!
             </p>
             <button className="hover:text-[#F7941E]  hover:border-[#F7941E] text-white  hover:bg-[#F1F1F2] 
             border bg-[#F7941E] px-4 py-2 mt-5  rounded-md">
