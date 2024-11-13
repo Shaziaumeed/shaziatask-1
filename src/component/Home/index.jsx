@@ -2,7 +2,7 @@ import React from "react";
 import Hero from "./Hero";
 import Layout from "../Layout";
 import Cards from "./Cards";
-import Signup from "./signup";
+import Signup from "./Signup";
 import Best from "./Best";
 import Boxes from "./Boxes";
 
